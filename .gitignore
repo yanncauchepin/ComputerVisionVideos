@@ -1,6 +1,2 @@
 venv/
-__pycache__
-modules/__pycache__
-examples/__pycache__
-tests/__pycache__
-samples/__pycache__
+**/__pycache__
